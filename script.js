@@ -13,7 +13,7 @@
 
     const model = 'gemini-2.0-flash';
     const apiKey = '';
-    const apiUrl = '';
+    const apiUrl = 'https://api.henryni.cn/v1/chat/completions';
 
     let quizData = {
         currentQuestion: '',
