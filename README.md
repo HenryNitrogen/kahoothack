@@ -1,6 +1,6 @@
 部署步骤：
 获取api
-1.进入http://api.henryni.cn/
+1.进入https://api.henryni.cn
 2.注册账号
 3.登录账号
 4.加作者微信：HenryNi926
